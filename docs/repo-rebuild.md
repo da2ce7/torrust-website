@@ -22,3 +22,8 @@ corepack yarn install
 ``` shell
 corepack yarn dlx svelte-add@latest scss
 ```
+
+## Add mdsvex to SvelteKit using yarn and svelte-add.
+``` shell
+corepack yarn dlx svelte-add@latest mdsvex
+```
