@@ -15,5 +15,6 @@ corepack use yarn@4.1.1
 
 ``` shell
 corepack yarn create svelte@latest
+corepack yarn install
 ```
 
