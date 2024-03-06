@@ -10,3 +10,10 @@ This guide goes through te process of rebuilding our website in basic steps.
 echo "{}" >> package.json
 corepack use yarn@4.1.1
 ```
+
+## Setup SvelteKit using yarn.
+
+``` shell
+corepack yarn create svelte@latest
+```
+
