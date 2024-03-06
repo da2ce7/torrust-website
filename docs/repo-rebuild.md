@@ -18,3 +18,7 @@ corepack yarn create svelte@latest
 corepack yarn install
 ```
 
+## Add scss to SvelteKit using yarn and svelte-add.
+``` shell
+corepack yarn dlx svelte-add@latest scss
+```
