@@ -55,6 +55,10 @@ jobs:
         name: Build Project
         run: yarn build
 
+      - id: story
+        name: Build Story
+        run: yarn story:build
+
       - id: test
         name: Run Unit Tests
         run: yarn test:unit
